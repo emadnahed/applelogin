@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/applelogin/static/css/main.e5f5a7eb.css",
+    "main.js": "/applelogin/static/js/main.fe996002.js",
+    "static/js/787.946a52eb.chunk.js": "/applelogin/static/js/787.946a52eb.chunk.js",
+    "index.html": "/applelogin/index.html",
+    "main.e5f5a7eb.css.map": "/applelogin/static/css/main.e5f5a7eb.css.map",
+    "main.fe996002.js.map": "/applelogin/static/js/main.fe996002.js.map",
+    "787.946a52eb.chunk.js.map": "/applelogin/static/js/787.946a52eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5f5a7eb.css",
+    "static/js/main.fe996002.js"
+  ]
+}
